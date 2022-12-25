@@ -1,0 +1,4 @@
+https://mariadb.com/kb/en/database-normalization/
+
+https://www.metabase.com/learn/databases/normalization
+

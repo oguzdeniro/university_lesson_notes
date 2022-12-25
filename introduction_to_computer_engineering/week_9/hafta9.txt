@@ -1,0 +1,7 @@
+https://www.jdoodle.com/c-online-compiler/
+
+
+https://www.tutorialspoint.com/cprogramming/c_pointers.htm
+https://www.tutorialspoint.com/cprogramming/c_data_types.htm
+https://www.tutorialspoint.com/cprogramming/c_variables.htm
+https://www.tutorialspoint.com/cprogramming/c_arrays.htm
